@@ -1,0 +1,23 @@
+GIT COMMANDS :-
+1.git status
+2.git init
+3.git add . // to all files
+4.git add "filename"
+5.git checkout-b "name"
+6.git commit-m "added hello and updated git commands"
+7.git pull origin 
+git status->git init->git status->git add.->git status->git remote add->git status->git commmit-m "intial setup done"
+
+cmds-->git--version enter->git config--global user.name "PoojithaNalla"
+git config--global user.email "poojithareddy4451@gmail.com"
+git push origin master
+new branch ----git checkout -b Poojitha enter
+git status->modify text -> git add. -> git status->git commit-m "added hello and updated git commands"->git status->git pull origin master
+
+git checkout master->switched to branch master
+again to Poojitha ->git checkout Poojitha
+git push origin poojitha
+
+
+
+
