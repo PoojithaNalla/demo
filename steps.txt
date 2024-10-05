@@ -1,0 +1,12 @@
+$ git remote set-url origin "https://github.com/PoojithaNalla/demo.git"//------to setup the url
+
+
+steps :-
+1.git status - to check the status of repository
+2.git init - creates a folder for git 
+3. git add .- to add files 
+4. git commit -m "Message" - to pass msg
+5.git remote add origin url- add our url of git from repository 
+6.git checkout -b "branch name" - adding to  bbranch of git
+7.git push origin "branchname"
+8.git pull origin "branch name"
